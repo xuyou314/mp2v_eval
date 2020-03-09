@@ -1,0 +1,1 @@
+./metapath2vec -train /home/xuyou/dgl/examples/pytorch/han/mp2v_data/imdb_output_path40   -output /home/xuyou/dgl/examples/pytorch/han/mp2v_data/imdb_output_emb40  -pp 1 -size 64 -window 5 -negative 5 -threads 12
